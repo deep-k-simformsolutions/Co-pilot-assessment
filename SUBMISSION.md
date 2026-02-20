@@ -5,10 +5,6 @@ Track Chosen
 GitHub Copilot Usage Summary
 Yes, Copilot was used to automate project setup tasks (e.g., creating ensuring best practices).
 
-Key Prompts Used
-- "Please create gitingore file and add node_modules in it"
-- "Please update this SUBMISSION FILE as per works"
-
 Design Decisions (optional)
 
 Decision 2: Maintained a modular backend structure (controllers, middleware, models, routes).
